@@ -1,4 +1,5 @@
 ### 2024년 경상남도 빅데이터 분석 공모전 
+https://bigdata.gyeongnam.go.kr/index.gn?menuCd=DOM_000000110009002000
 
 1. 주제 선정의 독창성
 2. 자료 분석의 우수성
@@ -14,4 +15,4 @@
 
 ### conda 가상환경 생성 및 설치
 1. 터미널에서 "gyeongn" 이름으로 가상환경 생성
-2. "gyeongn" 활성화 후 pip install -r requirements.txt 싫
+2. "gyeongn" 활성화 후 pip install -r requirements.txt 실행
