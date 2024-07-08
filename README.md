@@ -15,5 +15,6 @@ https://bigdata.gyeongnam.go.kr/index.gn?menuCd=DOM_000000110009002000
 
 
 ### conda 가상환경 생성 및 설치
-1. 터미널에서 "gyeongn" 이름으로 가상환경 생성
-2. "gyeongn" 활성화 후 pip install -r requirements.txt 실행
+1. python==3.12.4
+2. 터미널에서 "gyeongn" 이름으로 가상환경 생성
+3. "gyeongn" 활성화 후 pip install -r requirements.txt 실행
