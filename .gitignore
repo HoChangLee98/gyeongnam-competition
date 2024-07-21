@@ -175,6 +175,7 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 /data/거리계산/
+/data/BND_ADM_DONG_PG/
 # /data/거리계산/facility_dist_result_df.pkl
 # /data/거리계산/facility_location_results.pkl
 # /data/거리계산/silver_dist_result_df.pkl
